@@ -1,0 +1,11 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" fill="#f7fafc" stroke="#1a365d" stroke-width="2"/>
+  <circle cx="100" cy="80" r="30" fill="#e2e8f0" stroke="#1a365d" stroke-width="2"/>
+  <path d="M80 100 Q100 115 120 100" stroke="#1a365d" stroke-width="2" fill="none"/>
+  <circle cx="92" cy="72" r="2" fill="#1a365d"/>
+  <circle cx="108" cy="72" r="2" fill="#1a365d"/>
+  <text x="100" y="140" text-anchor="middle" font-family="Arial" font-size="12" fill="#1a365d" font-weight="bold">Client Photo 1</text>
+  <text x="100" y="155" text-anchor="middle" font-family="Arial" font-size="10" fill="#4a5568">200x200px</text>
+  <text x="100" y="170" text-anchor="middle" font-family="Arial" font-size="10" fill="#4a5568">Optional - with permission</text>
+  <text x="100" y="185" text-anchor="middle" font-family="Arial" font-size="10" fill="#4a5568">testimonial-1.jpg</text>
+</svg>

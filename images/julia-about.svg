@@ -1,0 +1,14 @@
+<svg width="300" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="400" fill="#f7fafc" stroke="#1a365d" stroke-width="2"/>
+  <circle cx="150" cy="120" r="50" fill="#e2e8f0" stroke="#1a365d" stroke-width="2"/>
+  <path d="M110 160 Q150 180 190 160" stroke="#1a365d" stroke-width="3" fill="none"/>
+  <circle cx="138" cy="108" r="3" fill="#1a365d"/>
+  <circle cx="162" cy="108" r="3" fill="#1a365d"/>
+  <rect x="50" y="200" width="200" height="80" fill="#e2e8f0" stroke="#1a365d" stroke-width="1" rx="5"/>
+  <text x="150" y="230" text-anchor="middle" font-family="Arial" font-size="12" fill="#1a365d">Family Photo or</text>
+  <text x="150" y="245" text-anchor="middle" font-family="Arial" font-size="12" fill="#1a365d">Community Service</text>
+  <text x="150" y="260" text-anchor="middle" font-family="Arial" font-size="12" fill="#1a365d">Image</text>
+  <text x="150" y="310" text-anchor="middle" font-family="Arial" font-size="14" fill="#1a365d" font-weight="bold">Julia About Photo</text>
+  <text x="150" y="330" text-anchor="middle" font-family="Arial" font-size="12" fill="#4a5568">300x400px - Personal touch</text>
+  <text x="150" y="350" text-anchor="middle" font-family="Arial" font-size="12" fill="#4a5568">Replace: julia-about.jpg</text>
+</svg>

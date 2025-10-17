@@ -1,0 +1,84 @@
+# Aging Akamai - Senior Real Estate Website
+# .gitignore file
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.sublime-project
+.sublime-workspace
+
+# Node.js (if added later)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Build outputs (if build process added later)
+dist/
+build/
+*.min.css
+*.min.js
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Backup files
+*.bak
+*.backup
+
+# Image editing files (keep the final images, ignore working files)
+*.psd
+*.ai
+*.sketch
+*.fig
+
+# Real photos (when added, photographer may want to keep originals private)
+# Uncomment these lines if you want to keep real photos out of git:
+# images/julia-hero.jpg
+# images/julia-about.jpg
+# images/community-service.jpg
+# images/client-testimonial-*.jpg
+
+# Analytics and tracking files
+google*.html
+analytics/
+
+# Hosting provider files
+.netlify/
+.vercel/
+
+# Local development
+.cache/
